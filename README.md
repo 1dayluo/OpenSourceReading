@@ -6,4 +6,4 @@
 
 ## 笔记列表
 
-- howdoi
+- [howdoi](./howdoi/howdoi源代码阅读笔记.md)
